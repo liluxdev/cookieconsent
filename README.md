@@ -4,7 +4,7 @@ Cookie Consent
 Javascript plugin allowing a website to comply with the EU cookie law.
 
 Features
-========
+--------
 
 * Free to use and modify
 * Only show to EU visitors
@@ -40,5 +40,5 @@ Basic usage
     </script>
 
 Credits
-=======
+-------
 Created by [Silktide](http://silktide.com).
