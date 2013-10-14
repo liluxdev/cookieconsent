@@ -14,25 +14,6 @@
  You should have received a copy of the GNU General Public License
  along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-
- .---. .---.
- :     : o   :    me want cookie!
- _..-:   o :     :-.._    /
- .-''  '  `---' `---' "   ``-.
- .'   "   '  "  .    "  . '  "  `.
- :   '.---.,,.,...,.,.,.,..---.  ' ;
- `. " `.                     .' " .'
- `.  '`.                   .' ' .'
- `.    `-._           _.-' "  .'  .----.
- `. "    '"--...--"'  . ' .'  .'  o   `.
- .'`-._'    " .     " _.-'`. :       o  :
- jgs .'      ```--.....--'''    ' `:_ o       :
- .'    "     '         "     "   ; `.;";";";'
- ;         '       "       '     . ; .' ; ; ;
- ;     '         '       '   "    .'      .-'
- '  "     "   '      "           "    _.-'
- */
-
 var cc =
 {
     version: '1.0.10',
